@@ -1,0 +1,10 @@
+experiment,system,total,positive_or_correct,rate,status
+RQ1-text-to-XACML,HACS,50,50,100.00,reported-in-original-article-not-reproduced-with-original-inputs
+RQ1-text-to-XACML,FMS,45,45,100.00,reported-in-original-article-not-reproduced-with-original-inputs
+RQ1-text-to-XACML,SIS,40,40,100.00,reported-in-original-article-not-reproduced-with-original-inputs
+Legacy-manual-XACML-correctness,HACS,20,20,100.00,reported-in-original-article-not-reproduced-with-original-inputs
+Legacy-manual-XACML-correctness,FMS,18,18,100.00,reported-in-original-article-not-reproduced-with-original-inputs
+Legacy-manual-XACML-correctness,SIS,15,15,100.00,reported-in-original-article-not-reproduced-with-original-inputs
+Legacy-compliance,HACS,60,5,91.67,positive_or_correct-column-is-noncompliance-count;reported-not-reproduced
+Legacy-compliance,FMS,45,4,91.11,positive_or_correct-column-is-noncompliance-count;reported-not-reproduced
+Legacy-compliance,SIS,55,3,94.55,positive_or_correct-column-is-noncompliance-count;reported-not-reproduced

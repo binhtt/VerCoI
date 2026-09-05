@@ -1,0 +1,3 @@
+R1 | role | DOCTOR | MEDICAL_RECORD | read,update | Permit
+R2 | role | DOCTOR | MEDICAL_RECORD | read | Deny
+R3 | role | AUDITOR | MEDICAL_RECORD | audit | Permit

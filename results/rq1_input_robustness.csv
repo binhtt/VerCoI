@@ -1,0 +1,6 @@
+case,expected_accept,actual_accept
+valid-1,true,true
+valid-2,true,true
+invalid-1,false,false
+invalid-2,false,false
+invalid-3,false,false

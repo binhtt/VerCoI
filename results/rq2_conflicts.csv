@@ -1,0 +1,3 @@
+method,TP,FP,FN,TN,precision,recall,f1,specificity,accuracy
+VerCoI-V2,90,0,0,90,1.000000,1.000000,1.000000,1.000000,1.000000
+Recovered-RuleId-Heuristic,45,36,45,54,0.555556,0.500000,0.526316,0.600000,0.550000

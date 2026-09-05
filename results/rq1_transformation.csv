@@ -1,0 +1,4 @@
+system,dataset_kind,rules,resource_policies,correct_roundtrip,accuracy
+HACS,legacy-sized-synthetic-regression,50,6,50,1.000000
+FMS,legacy-sized-synthetic-regression,45,6,45,1.000000
+SIS,legacy-sized-synthetic-regression,40,6,40,1.000000

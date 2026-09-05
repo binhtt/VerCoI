@@ -1,0 +1,7 @@
+operator,detected,missed,detection_rate
+effect-inversion,30,0,1.000000
+missing-rule,30,0,1.000000
+wrong-subject,30,0,1.000000
+wrong-resource,30,0,1.000000
+wrong-action,30,0,1.000000
+extra-unauthorized,30,0,1.000000
