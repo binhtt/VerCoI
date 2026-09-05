@@ -1,0 +1,15 @@
+# Eclipse / Java build output
+/bin/
+*.class
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Logs
+*.log
+
+# Local experiment scratch output
+/results-local/
